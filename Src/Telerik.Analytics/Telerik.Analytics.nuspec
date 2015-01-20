@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.1</version>
+    <title>Telerik Analytics</title>
+    <authors>edberg</authors>
+    <owners>edberg</owners>
+    <projectUrl>https://github.com/edberg/telerik</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a .NET portable class library for the Telerik Platform Analytics Public API, see http://docs.telerik.com/platform/analytics/api/public-api. </description>
+    <copyright>Copyright 2015</copyright>
+    <tags>Telerik Platform Analytics API</tags>
+  </metadata>
+</package>
