@@ -11,7 +11,7 @@ Getting started
 After you have installed the NuGet package, you can get an instance of the service using the AnalyticsService class:
 
 ```C#
-using Consignor;
+using Telerik.Analytics;
 
 var apikey = "<insert your api key>";
 var projectkey = "<insert your projectid>";
