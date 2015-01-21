@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>1.1</version>
-    <title>Telerik Analytics</title>
+    <id>Edberg.Telerik.Analytics</id>
+    <version>1.0</version>
+    <title>Telerik Analytics Public API</title>
     <authors>edberg</authors>
     <owners>edberg</owners>
     <projectUrl>https://github.com/edberg/telerik</projectUrl>
